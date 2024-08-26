@@ -53,7 +53,7 @@ python cafemain.py
   * cafeclass.py: Defines the cafe class with methods for managing tables, orders, and billing.
   * cafemain.py: Contains the main application logic and user interface.
 * Bills are saved in text format with filenames based on user input.
-* 
+
 Feel free to dive into the code, make improvements, or use it as a reference for your own projects. If you have any questions or feedback, just let me know!
 
 Happy coding! 🚀
